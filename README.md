@@ -1,7 +1,7 @@
 # Modern JavaScript Developer Quiz
 # Robot Battledome
 
-## Setup
+## Setup.
 
 1. `cd` to your quizzes directory.
 1. Clone this repository and `cd` into the directory it creates.

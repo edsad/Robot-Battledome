@@ -2,4 +2,4 @@ document.getElementById("exampleIdHere").addEventListener("click", functionNameH
 
 function functionNameHere(event) {
   console.log("print the event object", event);
-}
+};
